@@ -16,6 +16,6 @@ public class NotesAppApplication {
 
         @RequestMapping("/ping")
         public String pingApp() {
-                return "Ich hoffe du siehst mich !!";
+                return "Ich hoffe du siehst mich.";
         }
 }
